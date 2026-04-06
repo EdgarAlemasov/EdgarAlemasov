@@ -11,7 +11,6 @@
       Hi there 👋 My name is Edgar.
     </div>
     <div class="prof">
-      JUNIOR PYTHON DEVELOPER.
     </div>
   </div>
   
